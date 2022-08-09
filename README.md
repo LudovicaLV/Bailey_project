@@ -8,3 +8,5 @@ This R code assigns each entry of the survey, for each country, to the appropria
 
 # Karen_human_transform:
 This R code evaluates what kind of answers were given for each question (e.g. numerical vs scale) and will be used to transform the entries into variables that will be used to generate a unique index, summarising the individual capital information. 
+
+Info on categories: https://docs.google.com/document/d/1OZx7KVScWPgImUr3txOejdUvYTcHwpqwRzDwyoICvGs/edit?usp=sharing
