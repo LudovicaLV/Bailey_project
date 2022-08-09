@@ -1,5 +1,3 @@
-# Bailey_project
-
 # Karen_final_indices:
 This R code assigns each entry of the survey, for each country, to the appropriate capital or category of interest. 
 
